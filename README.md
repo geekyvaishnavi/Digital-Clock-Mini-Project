@@ -1,1 +1,1 @@
-# Digital-Clock-Mini-Project
+# Digital-Clock-Mini-Project using JS
